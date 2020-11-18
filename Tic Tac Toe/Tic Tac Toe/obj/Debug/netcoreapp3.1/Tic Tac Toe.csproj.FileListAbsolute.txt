@@ -1,0 +1,13 @@
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.exe
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.deps.json
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.json
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.dev.json
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfo.cs
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Gian Bänninger\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.genruntimeconfig.cache
