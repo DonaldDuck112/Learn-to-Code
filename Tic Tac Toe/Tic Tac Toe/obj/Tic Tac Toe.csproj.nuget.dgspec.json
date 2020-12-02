@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj": {}
+    "C:\\development\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj": {}
   },
   "projects": {
-    "C:\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj": {
+    "C:\\development\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+        "projectUniqueName": "C:\\development\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
         "projectName": "Tic Tac Toe",
-        "projectPath": "C:\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+        "projectPath": "C:\\development\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
         "packagesPath": "C:\\Users\\aigisGast\\.nuget\\packages\\",
-        "outputPath": "C:\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\obj\\",
+        "outputPath": "C:\\development\\Gian Bänninger\\Tic Tac Toe\\Tic Tac Toe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
