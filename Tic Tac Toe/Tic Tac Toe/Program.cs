@@ -16,11 +16,20 @@ namespace Tic_Tac_Toe
                 Console.WriteLine("_{0}__|_{1}__|_{2}__", Spielfelder[3], Spielfelder[4], Spielfelder[5]);
                 Console.WriteLine(" {0}  | {1}  | {2}  ", Spielfelder[6], Spielfelder[7], Spielfelder[8]);
 
+                double wert;
+                do
+                {
+                    var input = Console.ReadKey(false);
 
-                var input = Console.ReadKey(false);
-                Console.WriteLine(input.Key);
+                    wert = char.GetNumericValue(input.KeyChar);
 
-                double wert = char.GetNumericValue(input.KeyChar);
+                    if (wert < 1 )
+                    {
+                        Console.WriteLine("Falsche Eingabe bitte geben sie eine Zahl zwischen 1-9 ein.");
+                    }
+                } while (wert < 1);
+
+
                 if (spieler == 1)
                 {
                     Spielfelder[(int)(wert - 1)] = 'X';
@@ -29,7 +38,7 @@ namespace Tic_Tac_Toe
                 {
                     Spielfelder[(int)(wert - 1)] = 'O';
                 }
-                
+
 
 
                 if (spieler == 1)
@@ -38,26 +47,25 @@ namespace Tic_Tac_Toe
                 }
                 else if (spieler == 2)
                 {
-                    spieler = 1;                    
+                    spieler = 1;
                 }
-                else 
+                else
                 {
-                    //error
+
                 }
 
-                //todo: spieler wechseln
-            }
+            };
 
-            Console.WriteLine("Let us play Tic Tac Toe!");
-            Console.WriteLine("_{0}__|_{1}__|_{2}__", Spielfelder[0], Spielfelder[1], Spielfelder[2]);
-            Console.WriteLine("_{0}__|_{1}__|_{2}__", Spielfelder[3], Spielfelder[4], Spielfelder[5]);
-            Console.WriteLine(" {0}  | {1}  | {2}  ", Spielfelder[6], Spielfelder[7], Spielfelder[8]);
-
-
-            //var input2 = Console.ReadLine();
-            //Console.WriteLine(input2);
 
 
         }
+
+
+
+
+
+
+
     }
 }
+
