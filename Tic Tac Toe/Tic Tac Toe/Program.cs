@@ -23,12 +23,20 @@ namespace Tic_Tac_Toe
 
                     wert = char.GetNumericValue(input.KeyChar);
 
-                    if (wert < 1 )
+                    if (wert < 1)
                     {
                         Console.WriteLine("Falsche Eingabe bitte geben sie eine Zahl zwischen 1-9 ein.");
                     }
                 } while (wert < 1);
 
+                do
+                {
+                    if (Spielfelder[0] == 'X')
+                    {
+
+                        Console.WriteLine("bitte geben sie eine andere Zahl zwischen 1-9 ein.");
+                    }
+                } while (wert > 1);
 
                 if (spieler == 1)
                 {
@@ -38,7 +46,7 @@ namespace Tic_Tac_Toe
                 {
                     Spielfelder[(int)(wert - 1)] = 'O';
                 }
-
+               
 
 
                 if (spieler == 1)
